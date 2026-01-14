@@ -109,7 +109,9 @@ The project consists of **five main report pages**, each focusing on a specific 
 
 
 ## 📁 Dataset Information
-- The dataset represents **simulated PhonePe transaction data**
+- The dataset used in this project is **AI-generated and simulated**
+- It is created solely for **learning, practice, and portfolio demonstration**
+- The data does **not represent real PhonePe user or transaction data**
 - Includes:
   - Transaction ID
   - Date
